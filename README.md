@@ -17,7 +17,7 @@ Some screen shorts for reference.
 # programming apis
 Sort algorithm is written in javascript, the following apis are provided. 
 These apis can be accessed in the context of javascript.
-SortData.getDataAt(index) : Get a sort data by its index.
-SortData.getDataCount() : Get the sort data count.
-SortData.swap(leftIndex, rightIndex) : Swap the left and right data in the sort list.
-SortData.setSortComplete(boolean) : Set true if the sort algorithm is completed.
+1. SortData.getDataAt(index) : Get a sort data by its index.
+2. SortData.getDataCount() : Get the sort data count.
+3. SortData.swap(leftIndex, rightIndex) : Swap the left and right data in the sort list.
+4. SortData.setSortComplete(boolean) : Set true if the sort algorithm is completed.
