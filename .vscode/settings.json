@@ -2,10 +2,6 @@
     "java.project.referencedLibraries": {
         "include": [
             "lib/**/*.jar",
-            "rhino-1.7.7.1.jar"
-        ],
-        "exclude": [
-            "/Volumes/TOSHIBA EXT/study/java/RinhoStudy/rhino-1.7.7.1.jar"
         ]
     }
 }
